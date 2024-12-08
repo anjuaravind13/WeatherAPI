@@ -122,7 +122,7 @@ function Home() {
   };
 
   return (
-    <div>
+    <div className="home">
       <div className="container">
         <div className="left-section">
           <div className="search-card">

@@ -24,13 +24,18 @@ body {
   min-height: 100vh;
 }
 
+.home{
+  /* border: 1px solid; */
+}
+
 .container {
   margin: 20px;
   width: 100%;
-  max-width: 1200px;
+  /* max-width: 1200px; */
   display: grid;
-  grid-template-columns: 1fr 2fr;
+  /* grid-template-columns: 1fr 2fr; */
   gap: 20px;
+  /* border: 1px solid white; */
 }
 
 
@@ -119,6 +124,8 @@ body {
 }
 
 .forecast-card {
+  /* width: 1200px; */
+  /* border: 1px solid; */
   margin: 20px;
   background: var(--card-background);
   padding: 20px;
